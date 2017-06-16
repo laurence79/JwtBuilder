@@ -2,11 +2,11 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard1.4</TargetFramework>
-    <PackOnBuild>true</PackOnBuild>
     <PackageId>JwtBuilder</PackageId>
     <Authors>Laurence Hartgill</Authors>
     <Description>Library with builder syntax to ease the generation of JWTs </Description>
     <PackageProjectUrl>https://github.com/laurence79/JwtBuilder</PackageProjectUrl>
+    <PackageVersion>0.1</PackageVersion>
   </PropertyGroup>
 
   <ItemGroup>
